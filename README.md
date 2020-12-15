@@ -57,13 +57,6 @@
   - \+ = you too
   - \- = but not you  
 
-OLD
-
-|           | 1st person   | 2nd person | 3rd person      | 4th person |
-| --------- | ------------ | ---------- | --------------- | ---------- |
-| Singular: | og           | ov         | od / ov / ol    | om         |
-|   Plural: | ogt / okt    | ovt        | odt / ovt / olt | omt        |
-|    Notes: | +/- listener | (in)formal | he / she<br>it - things | indifferent |
 
 ### verbs
 - speak = spoh
