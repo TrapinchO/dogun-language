@@ -36,6 +36,13 @@
 # words
 
 ### nouns
+Plural:
+
+|            | singular   |  plural    | plural<br>collective |
+| ---------- | ---------- | ---------- | ----------------- |
+| -          | -eth       | -ath       | -aeth             |
+| earth      | earheth    | earhath    | earhaeth          |
+
 - friend = frod
 - letter = lotod
 - stone = sthod
