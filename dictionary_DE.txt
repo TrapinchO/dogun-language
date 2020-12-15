@@ -1,0 +1,7 @@
+and = o
+friend = frod
+letter = lotod
+on = ho
+stone = sthod
+to = to
+wynnic = wynnic
