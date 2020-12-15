@@ -28,6 +28,15 @@
 - y = currently none
 - z = currently none
 
+Some prototype table:
+
+| - | - | - | - | - |
+| ----- | ----- | ----- | ----- | ----- |
+| vowels | a | e | i | o | u |
+| hard consonants | b | c | d | g | k | l | p | t | v |
+| soft consonants | f | h | m | n | r | s |
+
+
 # Verbs
 - end with "h"
 - verb + pronoun (e.g. "I write" =  wroth + og = wrothog)
@@ -38,10 +47,10 @@
 ### nouns
 Plural:
 
-|            | singular   |  plural    | plural<br>collective |
-| ---------- | ---------- | ---------- | ----------------- |
-| -          | -eth       | -ath       | -aeth             |
-| earth      | earheth    | earhath    | earhaeth          |
+|            |  plural    | plural<br>collective |
+| ---------- | ---------- | ----------------- |
+| -          | -ath       | -aeth             |
+| earth      | earhath    | earhaeth          |
 
 - friend = frod
 - letter = lotod
