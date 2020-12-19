@@ -79,6 +79,7 @@ Plural:
 - speak = spoh
 - write = vroth
 - live = doh
+- welcome = volcoh
 
 ### prepositions
 - on = ho
@@ -103,3 +104,4 @@ Plural:
 - Dogun writes on stone = Dogun vrothold ho sthod
 - Korzim writes a letter to a friend = Korzim vrothod lotod to frod
 - He speaks wynnic and dogun = Spohod wynnic o dogun
+- TrapinchO welcomes the Doguns = TrapinchO volcoha Dohearhaeth
