@@ -47,10 +47,11 @@ Some prototype table:
 ### nouns
 Plural:
 
-|            |  plural    | plural<br>collective |
-| ---------- | ---------- | ----------------- |
-| -          | -ath       | -aeth             |
-| earth      | earhath    | earhaeth          |
+|              |  plural    | plural<br>collective |
+| -----------  | ---------- | -------------------- |
+| **postfix**  | -ath       | -aeth                |
+| **examples** | --------   | ------------------   |
+| earth        | earhath    | earhaeth             |
 
 - friend = frod
 - letter = lotod
@@ -86,11 +87,15 @@ Plural:
 
 # tenses
 - syntax: {prefix}-{verb} (e.g. "You (singular) Write!" = "Rah-wrotho)
-### past
-### present
-### future
-### imperative
-- rah
+- prefix conststs of {abh} where "a" is time (past/future/imperative), "b" is exact tense and "h" is letter "h"
+
+
+- past
+  - simple
+- future
+  - simple
+- imperative
+  - rah
 
 # examples
 - I write = wrothog (or "og vrothog")
