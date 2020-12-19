@@ -52,7 +52,9 @@ Plural:
 | **postfix**  | -ath       | -aeth                |
 | **examples** | --------   | ------------------   |
 | earth        | earhath    | earhaeth             |
-
+- plural collective = e.g. races, species
+  - Dogun in the sense of species, not a group (like a village) 
+<br>
 - friend = frod
 - letter = lotod
 - stone = sthod
@@ -104,4 +106,4 @@ Plural:
 - Dogun writes on stone = Dogun vrothold ho sthod
 - Korzim writes a letter to a friend = Korzim vrothod lotod to frod
 - He speaks wynnic and dogun = Spohod wynnic o dogun
-- TrapinchO welcomes the Doguns = TrapinchO volcoha Dohearhaeth
+- TrapinchO welcomes the Doguns = TrapinchO volcoha Dohearhath
