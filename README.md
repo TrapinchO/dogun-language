@@ -65,9 +65,9 @@ Plural:
 
 |           | 1st person   | 2nd person | 3rd person       |
 | --------- | ------------ | ---------- | ---------------- |
-| Singular: | a            | o / ol     | u / ul / ub / um |
-|   Plural: | aa / aal     | oo / ool   | uu / uul / uub / uum |
-|    Notes: | +/- listener | (in)formal | he / she<br>it - things<br>indifferent |
+| Singular: | a            | o          | u / ul / ub / um |
+|   Plural: | aa / aal     | oo         | uu / uul / uub / uum |
+|    Notes: | +/- listener | -          | he / she<br>it - things<br>indifferent |
 - listener = (not)including person the speach/text is directed to
 - Friend tells you: "We won the lottery!"
   - \+ = you too
@@ -83,6 +83,14 @@ Plural:
 - on = ho
 - to = to
 - and = o
+
+# tenses
+- syntax: {prefix}-{verb} (e.g. "You (singular) Write!" = "Rah-wrotho)
+### past
+### present
+### future
+### imperative
+- rah
 
 # examples
 - I write = wrothog (or "og vrothog")
