@@ -74,8 +74,10 @@ Plural:
 - listener = (not)including person the speach/text is directed to
 - Friend tells you: "We won the lottery!"
   - \+ = you too
-  - \- = but not you  
+  - \- = but not you
 
+- that
+- this
 
 ### verbs
 - speak = spoh
