@@ -30,8 +30,8 @@
 
 Some prototype table:
 
-| - | - | - | - | - |
-| ----- | ----- | ----- | ----- | ----- |
+| - | - | - | - | - | - |
+| ----- | ----- | ----- | ----- | ----- | ----- |
 | vowels | a | e | i | o | u |
 | hard consonants | b | c | d | g | k | l | p | t | v |
 | soft consonants | f | h | m | n | r | s |
@@ -55,12 +55,15 @@ Plural:
 - plural collective = e.g. races, species
   - Dogun in the sense of species, not a group (like a village) 
 <br>
+
+- Dogun = Dohearh (living earth)
+- being (noun) = baen
+- earth = earh
+- fire = firae
 - friend = frod
 - letter = lotod
 - stone = sthod
-- earth = earh
 - wynnic = wynnic
-- Dogun = Dohearh (living earth)
 
 ### adjective
 
@@ -84,11 +87,14 @@ Plural:
 - write = vroth
 - live = doh
 - welcome = volcoh
+- be = dah
+
 
 ### prepositions
 - on = ho
 - to = to
 - and = o
+- from = fo
 
 # tenses
 - syntax: {prefix}-{verb} (e.g. "You (singular) Write!" = "Rah-wrotho)
@@ -101,6 +107,9 @@ Plural:
   - simple
 - imperative
   - rah
+
+# sentence structure
+
 
 # examples
 - I write = wrothog (or "og vrothog")
