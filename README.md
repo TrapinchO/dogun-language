@@ -1,4 +1,4 @@
-(Please forgive me the lack of proper terminology, I have no idea how to say it in english)
+(Please forgive me the lack of proper terminology)
 
 # Pronuciation:
 - a = a in ah
@@ -6,11 +6,11 @@
 - c = ----- for now same as "k"
 - d = d in Dogun
 - e = e in epic
-- f = f in f***
+- f = f in fine
 - g = g in give
-- h = h in heraldics
+- h = h in heraldic
 - i = i in bit
-- j = ---- haven't find adequate pronuciations, so propably nothing for now
+- j = ---- haven't found adequate pronunciation, so probably nothing for now
 - k = k in like
 - l = l in like
 - m = m in moo Salted, moo
@@ -28,93 +28,93 @@
 - y = currently none
 - z = currently none
 
-Some prototype table:
-
-| - | - | - | - | - | - |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| vowels | a | e | i | o | u |
-| hard consonants | b | c | d | g | k | l | p | t | v |
-| soft consonants | f | h | m | n | r | s |
-
 
 # Verbs
-- end with "h"
-- verb + pronoun (e.g. "I write" =  wroth + og = wrothog)
-- negated is made by verb + "n" + pronoun (e.g. "I don't write" = wroth + n + og = wrothnog)
+- ends with "h"
+- {pronoun}-{verb}-{tense} (e.g. "I write" =  og + wroth = og-wroth)
+- negated is made by verb + "n" + pronoun (e.g. "I don't write" = n + og + wroth = nog-wroth)
 
-# words
-
-### nouns
-Plural:
-
-|              |  plural    | plural<br>collective |
-| -----------  | ---------- | -------------------- |
-| **postfix**  | -ath       | -aeth                |
-| **examples** | --------   | ------------------   |
-| earth        | earhath    | earhaeth             |
-- plural collective = e.g. races, species
-  - Dogun in the sense of species, not a group (like a village) 
-<br>
-
-- Dogun = Dohearh (living earth)
-- being (noun) = baen
-- earth = earh
-- fire = firae
-- friend = frod
-- letter = lotod
-- stone = sthod
-- wynnic = wynnic
-
-### adjective
-
-### pronouns
-
-|           | 1st person   | 2nd person | 3rd person       |
-| --------- | ------------ | ---------- | ---------------- |
-| Singular: | a            | o          | u / ul / ub / um |
-|   Plural: | aa / aal     | oo         | uu / uul / uub / uum |
-|    Notes: | +/- listener | -          | he / she<br>it - things<br>indifferent |
-- listener = (not)including person the speach/text is directed to
-- Friend tells you: "We won the lottery!"
-  - \+ = you too
-  - \- = but not you
-
-- that
-- this
-
-### verbs
-- speak = spoh
-- write = vroth
-- live = doh
-- welcome = volcoh
-- be = dah
-
-
-### prepositions
-- on = ho
-- to = to
-- and = o
-- from = fo
-
-# tenses
-- syntax: {prefix}-{verb} (e.g. "You (singular) Write!" = "Rah-wrotho)
-- prefix conststs of {abh} where "a" is time (past/future/imperative), "b" is exact tense and "h" is letter "h"
-
+### tenses
+- prefix consists of {abh} where "a" is time (past/future/imperative), "b" is exact tense and "h" is letter "h"
 
 - past
   - simple
 - future
   - simple
 - imperative
-  - rah
+- conditional
+
+### words
+| english | dogun-ish |
+|---------|-----------|
+| speak   | spoh      |
+| write   | vroth     |
+| live    | doh       |
+| welcome | volcoh    |
+| be      | dah       |
+
+### nouns
+Plural:
+
+|              |  plural    | plural<br>collective |
+| -----------  | ---------- | -------------------- |
+| **postfix**  | -at        | -aet                 |
+| **examples** | --------   | ------------------   |
+| earth        | earhat     | earhaet              |
+- plural collective = e.g. races, species
+  - Dogun as species, not as a group (like a village) 
+<br>
+
+| english      | dogun-ish             |
+|--------------|-----------------------|
+| Dogun        | Dohearh (living earth)|
+| being (noun) | baen                  |
+| earth        | earh                  |
+| fire         | firae                 |
+| friend       | frod                  |
+| letter       | lotod                 |
+| stone        | sthod                 |
+| wynnic       | wynnic                |
+
+
+### pronouns
+
+
+|                  | singular | plural   | plural<br>collective|
+|------------------|----------|----------|---------------------|
+| 1st person (me)  | da       | daa/daal | dae                 |
+| 2nd person (you) | de       | dea      | dee                 |
+| 3nd person (it)  | du       | dua      | due                 |
+- for plural of the 1st person:
+  - listener = (not)including person the speech/text is directed to
+  - Friend tells you: "We won the lottery!"
+    - \+ = you too
+    - \- = but not you
+
+
+### prepositions
+| english | dogun-ish |
+|---------|-----------|
+| speak   | spoh      |
+| on      | ho        |
+| to      | to        |
+| and     | o         |
+| from    | fo        |
+
+
+### adjective
+
+
 
 # sentence structure
 
 
 # examples
-- I write = wrothog (or "og vrothog")
-- He speaks = spohod (or "od spohod")
-- Dogun writes on stone = Dogun vrothold ho sthod
-- Korzim writes a letter to a friend = Korzim vrothod lotod to frod
-- He speaks wynnic and dogun = Spohod wynnic o dogun
-- TrapinchO welcomes the Doguns = TrapinchO volcoha Dohearhath
+| english                            | dogun-ish                   |
+|------------------------------------|-----------------------------|
+| I write                            | wrothog (or "og vrothog")   |
+| He speaks                          | spohod (or "od spohod")     |
+| Dogun writes on stone              | Dogun vrothold ho sthod     |
+| Korzim writes a letter to a friend | Korzim vrothod lotod to frod|
+| He speaks wynnic and dogun         | Spohod wynnic o dogun       |
+| TrapinchO welcomes the Doguns      | TrapinchO volcoha Dohearhath|
