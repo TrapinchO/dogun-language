@@ -1,22 +1,28 @@
 (Please forgive me the lack of proper terminology)<br>
 **This project is heavily WIP and everything is subject to change**
 
+# Design notes:
+The language is supposed to reflect the nature of the species.<br>
+This means that the sentences should be short and
+contain as much information as possible, as Doguns speak slowly. <br>
+I am also trying to make the language simple. I try to look at every feature and question why does it exist.
+
 # Pronuciation:
-| letter | pronuciation   | letter | pronuciation   |
-|--------|----------------|--------|----------------|
-| a      | a in ah        | b      | b n bat        |
-| c      | same as "k"    | d      | d in Dogun     |
-| e      | e in epic      | f      | f in fine      |
-| g      | g in give      | h      | h in heraldic  |
-| i      | i in bit       | j      | currently none |
-| k      | k in like      | l      | l in like      |
-| m      | m in moo       | n      | n in no        |
-| o      | o in bonk      | p      | p in pick      |
-| q      | currently none | r      | r in request   |
-| s      | s in sick      | t      | t in tree      |
-| u      | u in put       | v      | v in verb      |
-| w      | currently none | x      | currently none |
-| y      | currently none | z      | currently none |
+| letter | pronunciation   | letter | pronunciation   |
+|--------|-----------------|--------|-----------------|
+| a      | a in ah         | b      | b n bat         |
+| c      | same as "k"     | d      | d in Dogun      |
+| e      | e in epic       | f      | f in fine       |
+| g      | g in give       | h      | h in heraldic   |
+| i      | i in bit        | j      | currently none  |
+| k      | k in like       | l      | l in like       |
+| m      | m in moo        | n      | n in no         |
+| o      | o in bonk       | p      | p in pick       |
+| q      | currently none  | r      | r in request    |
+| s      | s in sick       | t      | t in tree       |
+| u      | u in put        | v      | v in verb       |
+| w      | currently none  | x      | currently none  |
+| y      | currently none  | z      | currently none  |
 
 
 # Nouns:
@@ -47,7 +53,7 @@ Plural:
 - ends with "h"
 - structure is {pronoun}-{verb}-{tense}
   - (e.g. "I write" =  og + wroth = og-wroth)
-- negation is made by
+- negation is done by
   - (e.g. "I don't write" = da + "n" + vroth = dan-vroth)
 
 ### tenses
@@ -55,8 +61,11 @@ Plural:
   - "a" is time (past/future/imperative)
   - "b" is exact tense
 
+
 - past
   - simple
+  - continuous
+- present
 - future
   - simple
 - imperative
@@ -74,11 +83,11 @@ Plural:
 
 
 # Pronouns:
-|                  | singular | plural   | plural<br>collective|
-|------------------|----------|----------|---------------------|
-| 1st person (me)  | da       | daa/daal | dai                 |
-| 2nd person (you) | de       | dea      | dei                 |
-| 3nd person (it)  | du       | doa      | doi                 |
+|                  | singular | plural      | plural<br>collective|
+|------------------|----------|-------------|---------------------|
+| 1st person (me)  | da       | daa<br>daal | dai                 |
+| 2nd person (you) | de       | dea         | dei                 |
+| 3nd person       | du       | doa         | doi                 |
 - for plural of the 1st person:
   - listener = (not)including person the speech/text is directed to
   - Friend tells you: "We won the lottery!"
@@ -115,4 +124,4 @@ Plural:
 | Dogun writes on stone              | Dogun du-vroth ho sthod       |
 | Korzim writes a letter to a friend | Korzim du-vroth lotod to frod |
 | He speaks wynnic and dogun         | Du-spoh wynnic o dogun        |
-| Doguns live                        | Dohearh doi-doh               |
+| Doguns live                        | Dohearhe doi-doh               |
