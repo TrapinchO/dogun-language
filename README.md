@@ -1,7 +1,6 @@
 (Please forgive me the lack of proper terminology)<br>
 **This project is heavily WIP and everything is subject to change**
 
-
 # Pronuciation:
 | letter | pronuciation   | letter | pronuciation   |
 |--------|----------------|--------|----------------|
@@ -18,6 +17,30 @@
 | u      | u in put       | v      | v in verb      |
 | w      | currently none | x      | currently none |
 | y      | currently none | z      | currently none |
+
+
+# Nouns:
+Plural:
+
+|              |  plural    | plural<br>collective |
+|--------------|------------|----------------------|
+| **postfix**  | -a         | -e                   |
+| **examples** | ---------- | -------------------- |
+| earth        | earha      | earhe                |
+- plural collective = e.g. races, species
+  - Dogun as species, not as a group (like a village)
+
+### words:
+| english      | dogun-ish             |
+|--------------|-----------------------|
+| Dogun        | Dohearh (living earth)|
+| being (noun) | baen                  |
+| earth        | earh                  |
+| fire         | firae                 |
+| friend       | frod                  |
+| letter       | lotod                 |
+| stone        | sthod                 |
+| wynnic       | wynnic                |
 
 
 # Verbs:
@@ -47,39 +70,15 @@
 | live    | doh       |
 | welcome | volcoh    |
 | be      | dah       |
-
-# Nouns:
-Plural:
-
-|              |  plural    | plural<br>collective |
-|--------------|------------|----------------------|
-| **postfix**  | -a         | -e                   |
-| **examples** | ---------- | -------------------- |
-| earth        | earha      | earhe                |
-- plural collective = e.g. races, species
-  - Dogun as species, not as a group (like a village) 
 <br>
-
-| english      | dogun-ish             |
-|--------------|-----------------------|
-| Dogun        | Dohearh (living earth)|
-| being (noun) | baen                  |
-| earth        | earh                  |
-| fire         | firae                 |
-| friend       | frod                  |
-| letter       | lotod                 |
-| stone        | sthod                 |
-| wynnic       | wynnic                |
 
 
 # Pronouns:
-
-
 |                  | singular | plural   | plural<br>collective|
 |------------------|----------|----------|---------------------|
-| 1st person (me)  | da       | daa/daal | dae                 |
-| 2nd person (you) | de       | dea      | dee                 |
-| 3nd person (it)  | du       | dua      | due                 |
+| 1st person (me)  | da       | daa/daal | dai                 |
+| 2nd person (you) | de       | dea      | dei                 |
+| 3nd person (it)  | du       | doa      | doi                 |
 - for plural of the 1st person:
   - listener = (not)including person the speech/text is directed to
   - Friend tells you: "We won the lottery!"
@@ -97,8 +96,9 @@ Plural:
 | from    | fo        |
 
 
-# Adjectives:
 # Adverbs:
+# Adjectives:
+
 # Determiners:
 # Conjunctions:
 # Interjections:
@@ -108,11 +108,11 @@ Plural:
 
 
 # Examples:
-| english                            | dogun-ish                   |
-|------------------------------------|-----------------------------|
-| I write                            | wrothog (or "og vrothog")   |
-| He speaks                          | spohod (or "od spohod")     |
-| Dogun writes on stone              | Dogun vrothold ho sthod     |
-| Korzim writes a letter to a friend | Korzim vrothod lotod to frod|
-| He speaks wynnic and dogun         | Spohod wynnic o dogun       |
-| TrapinchO welcomes the Doguns      | TrapinchO volcoha Dohearhath|
+| english                            | dogun-ish                     |
+|------------------------------------|-------------------------------|
+| I write                            | da-vroth                      |
+| He speaks                          | du-spoh                       |
+| Dogun writes on stone              | Dogun du-vroth ho sthod       |
+| Korzim writes a letter to a friend | Korzim du-vroth lotod to frod |
+| He speaks wynnic and dogun         | Du-spoh wynnic o dogun        |
+| Doguns live                        | Dohearh doi-doh               |
