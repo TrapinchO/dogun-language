@@ -7,7 +7,7 @@ This means that the sentences should be short and
 contain as much information as possible, as Doguns speak slowly. <br>
 I am also trying to make the language simple. I try to look at every feature and question why does it exist.
 
-# Pronuciation:
+# Pronunciation:
 | letter | pronunciation   | letter | pronunciation   |
 |--------|-----------------|--------|-----------------|
 | a      | a in ah         | b      | b n bat         |
@@ -36,7 +36,58 @@ Plural:
 - plural collective = e.g. races, species
   - Dogun as species, not as a group (like a village)
 
-### words:
+
+# Verbs:
+- ends with "h"
+- structure is {pronoun}-{verb}-{tense}
+  - (e.g. "I write" =  og + wroth = og-wroth)
+- negation is done by
+  - (e.g. "I don't write" = da + "n" + vroth = dan-vroth)
+
+### tenses
+- postfix
+
+| tense              | prefix |
+|--------------------|--------|
+| present simple     | -en    |
+| present continuous | -in    |
+| past simple        | -em    |
+| future simple      | ---    |
+| imperative         | ---    |
+| conditional        | ---    |
+
+
+slovesný vid (czech because of the lack of terminology)
+# Pronouns:
+|                  | singular | plural      | plural<br>collective|
+|------------------|----------|-------------|---------------------|
+| 1st person (me)  | da       | daa/<br>daal | dai                 |
+| 2nd person (you) | de       | dea         | dei                 |
+| 3nd person       | du       | doa         | doi                 |
+- for plural of the 1st person:
+  - listener = (not)including person the speech/text is directed to
+  - Friend tells you: "We won the lottery!"
+    - \+ = you too
+    - \- = but not you
+
+possessive pronouns have the prefix "-a" (our = "adaa")
+
+
+# Prepositions:
+# Adverbs:
+# Adjectives:
+- absolute: nothing
+- comparative: postfix -o
+- superlative: postfix -i
+# Determiners:
+# Conjunctions:
+# Interjections:
+
+
+# Sentence structure:
+Same as english for now
+
+# words:
 | english      | dogun-ish             |
 |--------------|-----------------------|
 | Dogun        | Dohearh (living earth)|
@@ -47,56 +98,12 @@ Plural:
 | letter       | lotod                 |
 | stone        | sthod                 |
 | wynnic       | wynnic                |
-
-
-# Verbs:
-- ends with "h"
-- structure is {pronoun}-{verb}-{tense}
-  - (e.g. "I write" =  og + wroth = og-wroth)
-- negation is done by
-  - (e.g. "I don't write" = da + "n" + vroth = dan-vroth)
-
-### tenses
-- postfix consists of {ab} where:
-  - "a" is time (past/future/imperative)
-  - "b" is exact tense
-
-
-- past
-  - simple
-  - continuous
-- present
-- future
-  - simple
-- imperative
-- conditional
-
-### words
-| english | dogun-ish |
 |---------|-----------|
 | speak   | spoh      |
 | write   | vroth     |
 | live    | doh       |
 | welcome | volcoh    |
 | be      | dah       |
-<br>
-
-
-# Pronouns:
-|                  | singular | plural      | plural<br>collective|
-|------------------|----------|-------------|---------------------|
-| 1st person (me)  | da       | daa<br>daal | dai                 |
-| 2nd person (you) | de       | dea         | dei                 |
-| 3nd person       | du       | doa         | doi                 |
-- for plural of the 1st person:
-  - listener = (not)including person the speech/text is directed to
-  - Friend tells you: "We won the lottery!"
-    - \+ = you too
-    - \- = but not you
-
-
-# Prepositions:
-| english | dogun-ish |
 |---------|-----------|
 | speak   | spoh      |
 | on      | ho        |
@@ -105,15 +112,6 @@ Plural:
 | from    | fo        |
 
 
-# Adverbs:
-# Adjectives:
-
-# Determiners:
-# Conjunctions:
-# Interjections:
-
-
-# Sentence structure:
 
 
 # Examples:
