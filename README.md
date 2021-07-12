@@ -1,4 +1,4 @@
-(Please forgive me the lack of proper terminology)<br>
+(Please forgive me the lack of proper terminology, structure etc.)<br>
 **This project is heavily WIP and everything is subject to change**
 
 # Design notes:
@@ -72,12 +72,14 @@ TODO: Decide whether to use grammatical aspect to repalce extra tenses
     - \+ = you won too
     - \- = you didn't win
 
-possessive pronouns have the prefix "-a" (our (+ listener) = "adaa")
-
+possessive pronouns have the prefix "-a" (my = ada)
+<br>TODO: Possessive for other words
+- either a pre/suf- fix, or something "of" someone
 
 # Prepositions:
 # Adverbs:
 # Adjectives:
+TODO: Possible reserved last leeter (like verbs have)
 - absolute: nothing
 - comparative: postfix -o
 - superlative: postfix -i
@@ -85,7 +87,9 @@ possessive pronouns have the prefix "-a" (our (+ listener) = "adaa")
 # Conjunctions:
 # Interjections:
 
-
+# Word sructure
+One possibility:
+- words should start with one of these letters: t, d, k, g, p, b
 # Sentence structure:
 Same as english for now
 
