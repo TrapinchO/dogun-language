@@ -8,21 +8,23 @@ contain as much information as possible, as Doguns speak slowly. <br>
 I am also trying to make the language simple. I try to look at every feature and question why does it exist.
 
 # Pronunciation:
-| letter | pronunciation   | letter | pronunciation   |
-|--------|-----------------|--------|-----------------|
-| a      | a in ah         | b      | b n bat         |
-| c      | same as "k"     | d      | d in Dogun      |
-| e      | e in epic       | f      | f in fine       |
-| g      | g in give       | h      | h in heraldic   |
-| i      | i in bit        | j      | currently none  |
-| k      | k in like       | l      | l in like       |
-| m      | m in moo        | n      | n in no         |
-| o      | o in bonk       | p      | p in pick       |
-| q      | currently none  | r      | r in request    |
-| s      | s in sick       | t      | t in tree       |
-| u      | u in put        | v      | v in verb       |
-| w      | currently none  | x      | currently none  |
-| y      | currently none  | z      | currently none  |
+TODO: Use phonetic alphabet
+
+| letter | pronunciation  | letter | pronunciation   |
+|--------|----------------|--------|-----------------|
+| a      | a in "ah"      | b      | b in "bat"      |
+| c      | same as "k"    | d      | d in "Dogun"    |
+| e      | e in "epic"    | f      | f in "fine"     |
+| g      | g in "give"    | h      | h in "heraldic" |
+| i      | i in "bit"     | j      | unused          |
+| k      | k in "like"    | l      | l in "like"     |
+| m      | m in "moo"     | n      | n in "no"       |
+| o      | o in "nothing" | p      | p in "pick"     |
+| q      | unused         | r      | r in "request"  |
+| s      | s in "sick"    | t      | t in "tree"     |
+| u      | u in "put"     | v      | v in "verb"     |
+| w      | unused         | x      | unused          |
+| y      | unused         | z      | unused          |
 
 
 # Nouns:
@@ -35,14 +37,14 @@ Plural:
 | earth        | earha      | earhe                |
 - plural collective = e.g. races, species
   - Dogun as species, not as a group (like a village)
-
+TODO: is "Dohearh" a species or a member of the species?
 
 # Verbs:
-- ends with "h"
-- structure is {pronoun}-{verb}-{tense}
-  - (e.g. "I write" =  og + wroth = og-wroth)
-- negation is done by
-  - (e.g. "I don't write" = da + "n" + vroth = dan-vroth)
+- end with "h"
+- structure is {tense}-{verb}{pronoun without "d"}
+  - (e.g. "I write" =  en- + wroth + a = en-wrotha) ("en" signalises present simple)
+- negation is done by adding "n" before pronoun
+  - (e.g. "I don't write" = "n" + en- + vroth + a = nen-vrotha)
 
 ### tenses
 - postfix
@@ -52,25 +54,25 @@ Plural:
 | present simple     | -en    |
 | present continuous | -in    |
 | past simple        | -em    |
-| future simple      | ---    |
+| future simple      | -ef    |
 | imperative         | ---    |
 | conditional        | ---    |
 
 
-slovesný vid (czech because of the lack of terminology)
+TODO: Decide whether to use grammatical aspect to repalce extra tenses
 # Pronouns:
 |                  | singular | plural      | plural<br>collective|
 |------------------|----------|-------------|---------------------|
-| 1st person (me)  | da       | daa/<br>daal | dai                 |
+| 1st person (me)  | da       | daa/<br>dae | dai                 |
 | 2nd person (you) | de       | dea         | dei                 |
 | 3nd person       | du       | doa         | doi                 |
-- for plural of the 1st person:
-  - listener = (not)including person the speech/text is directed to
-  - Friend tells you: "We won the lottery!"
-    - \+ = you too
-    - \- = but not you
+- 1st person plural:
+  - whether the recipient of the speech/text is included
+  - Example: friend tells you "We won the lottery!"
+    - \+ = you won too
+    - \- = you didn't win
 
-possessive pronouns have the prefix "-a" (our = "adaa")
+possessive pronouns have the prefix "-a" (our (+ listener) = "adaa")
 
 
 # Prepositions:
@@ -96,7 +98,7 @@ Same as english for now
 | fire         | firae                 |
 | friend       | frod                  |
 | letter       | lotod                 |
-| stone        | sthod                 |
+| stone        | stod                  |
 | wynnic       | wynnic                |
 |---------|-----------|
 | speak   | spoh      |
@@ -104,8 +106,8 @@ Same as english for now
 | live    | doh       |
 | welcome | volcoh    |
 | be      | dah       |
-|---------|-----------|
 | speak   | spoh      |
+|---------|-----------|
 | on      | ho        |
 | to      | to        |
 | and     | o         |
@@ -115,11 +117,11 @@ Same as english for now
 
 
 # Examples:
-| english                            | dogun-ish                     |
-|------------------------------------|-------------------------------|
-| I write                            | da-vroth                      |
-| He speaks                          | du-spoh                       |
-| Dogun writes on stone              | Dogun du-vroth ho sthod       |
-| Korzim writes a letter to a friend | Korzim du-vroth lotod to frod |
-| He speaks wynnic and dogun         | Du-spoh wynnic o dogun        |
-| Doguns live                        | Dohearhe doi-doh               |
+| english                            | dogun-ish                      |
+|------------------------------------|--------------------------------|
+| I write                            | en-vrotha                      |
+| He speaks                          | en-spohu                       |
+| Dogun writes on stone              | Dogun en-vrothu ho stod        |
+| Korzim wrote a letter to a friend  | Korzim em-vrothu lotod to frod |
+| We will speak wynnic and dogun     | ef-spohaa wynnic o dogun       |
+| Doguns live                        | Dohearhe en-dohio              |
