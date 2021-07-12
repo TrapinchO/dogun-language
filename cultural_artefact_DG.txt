@@ -1,0 +1,38 @@
+Translated from https://wynncraft.fandom.com/wiki/Cultural_Artefact
+NOTE: First attempt to translate anything, new vocabulary is listed below the translation
+The pairs of line will have Dogunish text and precise english translation.
+
+########## TRANSLATION ##########
+En-dahae Dohearhe, beade fo Firae o Earh.
+We (- listener) are Doguns, beings from Fire and Earth.
+
+Adae sreg o forad nen-dahu konorap to doned dohod beade ho to lad.
+Our (- listener) strength and fortitude is uncomparable to other living beings on this land.
+
+Adae leod gorh srogo en-dahu adae leod beodoh.
+Our (- listener) will to grow stronger is our (- listener) will to survive.
+
+Nen-baenohae, rof nen-baihae nen-gohae goned of earh.
+We (- listener) do not weaken, because we (- listener) do not wish to go the path of the earth.
+
+
+########## VOLABULARY ##########
+because = rof
+being (creature) = bead
+comparable = konorap
+fortitude = forad
+land (as a place) = lad
+living (as of being alive) = dohod
+of = of
+other = doned
+path = goned
+strength = sreg
+strong = srog
+this = to
+to go = goh
+to grow = gord
+to survive = beodoh
+to weaken = baenoh
+to wish = baih
+will (as a trait) = leod
+with = kon
