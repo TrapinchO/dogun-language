@@ -120,7 +120,13 @@ Same as english for now
 
 
 # Writing system:
-Images coming soon
+## Alphabet:
+Each column represents an iteration. First iteration is in the style of already existing letters used for ceremonial purposes, the fourth one is simplified for use in common writing.<br>
+TODO: image styling + Vowel rename<br>
+![](images/DogunVowelDraft1.png)
+![](images/DogunPlosivesDraft1.png)
+![](images/DogunFricativesDraft1.png)
+![](images/DogunOthersDraft1.png)
 
 # Examples:
 | english                            | dogun-ish                      |
