@@ -7,25 +7,28 @@ This means that the sentences should be short and
 contain as much information as possible, as Doguns speak slowly. <br>
 I am also trying to make the language simple. I try to look at every feature and question why does it exist.
 
-# Pronunciation:
+# Alphabet
+## Pronunciation:
 TODO: Use phonetic alphabet
+<br>TODO: Sort it by type/clean up
 
-| letter | pronunciation  | letter | pronunciation   |
-|--------|----------------|--------|-----------------|
-| a      | a in "ah"      | b      | b in "bat"      |
-| c      | same as "k"    | d      | d in "Dogun"    |
-| e      | e in "epic"    | f      | f in "fine"     |
-| g      | g in "give"    | h      | h in "heraldic" |
-| i      | i in "bit"     | j      | unused          |
-| k      | k in "like"    | l      | l in "like"     |
-| m      | m in "moo"     | n      | n in "no"       |
-| o      | o in "nothing" | p      | p in "pick"     |
-| q      | unused         | r      | r in "request"  |
-| s      | s in "sick"    | t      | t in "tree"     |
-| u      | u in "put"     | v      | v in "verb"     |
-| w      | unused         | x      | unused          |
-| y      | unused         | z      | unused          |
-
+| letter | phonetic<br>transcription | example        | letter | phonetic<br>transcription | example         |
+|--------|---------------------------|----------------|--------|---------------------------|-----------------|
+| a      | /a/ or /ʌ/                | a in "ah"      | b      | /b/                       | b in "bat"      |
+| c      |                           | unused         | d      | /d/                       | d in "double"   |
+| e      | /e/ or /ɛ/                | e in "epic"    | f      | /f/                       | f in "fine"     |
+| g      | /g/                       | g in "give"    | h      | /ɦ/                       | h in "hello"    |
+| i      | /I/                       | i in "bit"     | j      |                           | unused          |
+| k      | /k/                       | k in "like"    | l      | /l/                       | l in "like"     |
+| m      | /m/                       | m in "moo"     | n      | /n/ or /ŋ/                | n in "no"       |
+| o      | /o/ or /ɔ/                | o in "spoil"   | p      | /p/                       | p in "pick"     |
+| q      |                           | unused         | r      | /r/                       | r in "request"  |
+| s      | /s/                       | s in "sick"    | t      | /t/                       | t in "tree"     |
+| u      | /u/                       | u in "put"     | v      | /v/                       | v in "verb"     |
+| w      |                           | unused         | x      |                           | unused          |
+| y      |                           | unused         | z      |                           | unused          |
+| aa     | /a:/                      | "aa" in "bath" | ee     | /ɛ:/ or /e:/              | no example      |
+| ii     | /i:/                      | "ee" in "bee"  |
 
 # Nouns:
 Plural:
