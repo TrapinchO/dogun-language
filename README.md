@@ -7,42 +7,40 @@ This means that the sentences should be short and
 contain as much information as possible, as Doguns speak slowly. <br>
 I am also trying to make the language simple. I try to look at every feature and question why does it exist.
 
-# Alphabet
+# Phonetics:
 ## Pronunciation:
-TODO: Use phonetic alphabet
-<br>TODO: Sort it by type/clean up
+| letter | phonetic<br>transcription | example        | letter | phonetic<br>transcription | example     | letter | phonetic<br>transcription | example      | letter | phonetic<br>transcription | example        |
+|:------:|:-------------------------:|----------------|:------:|:-------------------------:|-------------|:------:|:-------------------------:|--------------|:------:|:-------------------------:|----------------|
+| a      | /a/ or /ʌ/                | a in "ah"      | t      | /t/                       | t in "tree" | f      | /f/                       | f in "fine"  | l      | /l/                       | l in "like"    |
+| e      | /e/ or /ɛ/                | e in "epic"    | d      | /d/                       | d in "done" | v      | /v/                       | v in "verb"  | m      | /m/                       | m in "moo"     |
+| i      | /I/                       | i in "bit"     | k      | /k/                       | k in "like" | s      | /s/                       | s in "sick"  | n      | /n/ or /ŋ/                | n in "no"      |
+| o      | /o/ or /ɔ/                | o in "spoil"   | g      | /g/                       | g in "give" | h      | /ɦ/                       | h in "hello" | r      | /r/                       | r in "request" |
+| u      | /u/                       | no example     | p      | /p/                       | p in "pick" | | |                                                | | |                                                |
+| aa / á | /a:/                      | "aa" in "bath" | b      | /b/                       | b in "bat"  | | |                                                | | |                                                |
+| ee / é | /ɛ:/ or /e:/              | no example     | | |                                              | | |                                                | | |                                                |
+| ii / í | /i:/                      | "ee" in "bee"  | | |                                              | | |                                                | | |                                                |
 
-| letter | phonetic<br>transcription | example        | letter | phonetic<br>transcription | example         |
-|--------|---------------------------|----------------|--------|---------------------------|-----------------|
-| a      | /a/ or /ʌ/                | a in "ah"      | b      | /b/                       | b in "bat"      |
-| c      |                           | unused         | d      | /d/                       | d in "double"   |
-| e      | /e/ or /ɛ/                | e in "epic"    | f      | /f/                       | f in "fine"     |
-| g      | /g/                       | g in "give"    | h      | /ɦ/                       | h in "hello"    |
-| i      | /I/                       | i in "bit"     | j      |                           | unused          |
-| k      | /k/                       | k in "like"    | l      | /l/                       | l in "like"     |
-| m      | /m/                       | m in "moo"     | n      | /n/ or /ŋ/                | n in "no"       |
-| o      | /o/ or /ɔ/                | o in "spoil"   | p      | /p/                       | p in "pick"     |
-| q      |                           | unused         | r      | /r/                       | r in "request"  |
-| s      | /s/                       | s in "sick"    | t      | /t/                       | t in "tree"     |
-| u      | /u/                       | u in "put"     | v      | /v/                       | v in "verb"     |
-| w      |                           | unused         | x      |                           | unused          |
-| y      |                           | unused         | z      |                           | unused          |
-| aa     | /a:/                      | "aa" in "bath" | ee     | /ɛ:/ or /e:/              | no example      |
-| ii     | /i:/                      | "ee" in "bee"  |
+Unused letters: c, j, q, w, y, z<br>
+Letter categories:
+* Vowels
+* Plosives
+* Fricatives
+* Others
 
-# Nouns:
+# Grammar (I think?):
+## Nouns:
 Plural:
 
-|              |  plural    | plural<br>collective |
-|--------------|------------|----------------------|
-| **postfix**  | -a         | -e                   |
-| **examples** | ---------- | -------------------- |
-| earth        | earha      | earhe                |
+|              |  plural | plural<br>collective |
+|--------------|:-------:|:--------------------:|
+| **postfix**  | a       | e                    |
+| **examples** | ------- | -------------------- |
+| earth        | earha   | earhe                |
 - plural collective = e.g. races, species
   - Dogun as species, not as a group (like a village)
 TODO: is "Dohearh" a species or a member of the species?
 
-# Verbs:
+## Verbs:
 - end with "h"
 - structure is {tense}-{verb}{pronoun without "d"}
   - (e.g. "I write" =  en- + wroth + a = en-wrotha) ("en" signalises present simple)
@@ -53,50 +51,50 @@ TODO: is "Dohearh" a species or a member of the species?
 - postfix
 
 | tense              | prefix |
-|--------------------|--------|
-| present simple     | -en    |
-| present continuous | -in    |
-| past simple        | -em    |
-| future simple      | -ef    |
+|--------------------|:------:|
+| present simple     | en     |
+| present continuous | in     |
+| past simple        | em     |
+| future simple      | ef     |
 | imperative         | ---    |
 | conditional        | ---    |
 
 
 TODO: Decide whether to use grammatical aspect to repalce extra tenses
-# Pronouns:
+## Pronouns:
 |                  | singular | plural      | plural<br>collective|
-|------------------|----------|-------------|---------------------|
+|------------------|:--------:|:-----------:|:-------------------:|
 | 1st person (me)  | da       | daa/<br>dae | dai                 |
 | 2nd person (you) | de       | dea         | dei                 |
 | 3nd person       | du       | doa         | doi                 |
 - 1st person plural:
   - whether the recipient of the speech/text is included
   - Example: friend tells you "We won the lottery!"
-    - \+ = you won too
-    - \- = you didn't win
+    - \+listener = you won too
+    - \-listener = you didn't win
 
 possessive pronouns have the prefix "-a" (my = ada)
 <br>TODO: Possessive for other words
 - either a pre/suf- fix, or something "of" someone
 
-# Prepositions:
-# Adverbs:
-# Adjectives:
+## Prepositions:
+## Adverbs:
+## Adjectives:
 TODO: Possible reserved last leeter (like verbs have)
 - absolute: nothing
 - comparative: postfix -o
 - superlative: postfix -i
-# Determiners:
-# Conjunctions:
-# Interjections:
+## Determiners:
+## Conjunctions:
+## Interjections:
 
-# Word sructure
+## Word sructure
 One possibility:
 - words should start with one of these letters: t, d, k, g, p, b
 # Sentence structure:
 Same as english for now
 
-# words:
+# Vocabulary:
 | english      | dogun-ish             |
 |--------------|-----------------------|
 | Dogun        | Dohearh (living earth)|
@@ -121,7 +119,8 @@ Same as english for now
 | from    | fo        |
 
 
-
+# Writing system:
+Images coming soon
 
 # Examples:
 | english                            | dogun-ish                      |
