@@ -9,16 +9,21 @@ I am also trying to make the language simple. I try to look at every feature and
 
 # Phonetics:
 ## Pronunciation:
-| letter | phonetic<br>transcription | example        | letter | phonetic<br>transcription | example     | letter | phonetic<br>transcription | example      | letter | phonetic<br>transcription | example        |
-|:------:|:-------------------------:|----------------|:------:|:-------------------------:|-------------|:------:|:-------------------------:|--------------|:------:|:-------------------------:|----------------|
-| a      | /a/ or /ʌ/                | a in "ah"      | t      | /t/                       | t in "tree" | f      | /f/                       | f in "fine"  | l      | /l/                       | l in "like"    |
-| e      | /e/ or /ɛ/                | e in "epic"    | d      | /d/                       | d in "done" | v      | /v/                       | v in "verb"  | m      | /m/                       | m in "moo"     |
-| i      | /I/                       | i in "bit"     | k      | /k/                       | k in "like" | s      | /s/                       | s in "sick"  | n      | /n/ or /ŋ/                | n in "no"      |
-| o      | /o/ or /ɔ/                | o in "spoil"   | g      | /g/                       | g in "give" | h      | /ɦ/                       | h in "hello" | r      | /r/                       | r in "request" |
-| u      | /u/                       | no example     | p      | /p/                       | p in "pick" | | |                                                | | |                                                |
-| aa / á | /a:/                      | "aa" in "bath" | b      | /b/                       | b in "bat"  | | |                                                | | |                                                |
-| ee / é | /ɛ:/ or /e:/              | no example     | | |                                              | | |                                                | | |                                                |
-| ii / í | /i:/                      | "ee" in "bee"  | | |                                              | | |                                                | | |                                                |
+For more information on pronunciation [click on this table](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/).
+### Vowels:
+|       | near-front    | back                   |
+|:-----:|:-------------:|:----------------------:|
+| close | i /I/ ii /I:/ | u /u/                  |
+| mid   | e /ɛ/ ee /ɛ:/ | o /o/<br>a /ʌ/ aa /ʌ:/ |
+
+### Consonants
+|                         | bilabial    | labio-dental | alveolar    | velar       | glottal |
+|:-----------------------:|:-----------:|:------------:|:-----------:|:-----------:|:--------|
+| plosive                 | p /p/ b /b/ |              | t /t/ d /d/ | k /k/ g /g/ |         |
+| nasal                   | m /m/       |              | n /n/       |             |         |
+| trill                   |             |              | r /r/       |             |         |
+| fricative               |             | f /f/ v /v/  | s /s/       |             | h /ɦ/   |
+| lateral<br> approximant |             |              | l /l/       |             |         |
 
 Unused letters: c, j, q, w, y, z<br>
 Letter categories:
