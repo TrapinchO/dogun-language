@@ -32,26 +32,64 @@ Consonant categories:
 - Fricatives
 - Others
 
+
 # Grammar (I think?):
+## Word structure
+- words in their base form should start and end with plosives  
+  - yes: "Doheared"
+  - no:  "Doheareh"
+- vowels should alternate with consonants
+  - yes: "satod", "Doheared"
+  - no:  "stod",  "Doheard"
+
+Basic for of word is noun, other types are determined via suffix.
+| word<br>type | suffix       |
+|:------------:|:------------:|
+| verb         | oh           |
+| adjective    | <type>n      |
+
+Live:
+- noun: dod
+- verb (to live): dodoh
+- adjective (living): dodan
+- possesive (live's + "of live"): adod
+
+Good:
+- noun: baak
+- adjective
+  - absolute: baaken
+  - comparative (better): baakon
+  - superlative (best): baakun
+
+
+# Sentence structure:
+Same as english for now
+
+
 ## Nouns:
 ### Plural:
 Done via suffix "e"
 
+### Possesive
+Done via prefix "a"
+
+
 ## Verbs:
-- noun with suffix "ah"
 - structure is {tense}-{verb}{pronoun without "d"}
 - negation is done by adding "n" before tense
 
 ### tenses
 | tense              | prefix |
 |--------------------|:------:|
-| present simple     | en     |
-| present continuous | in     |
-| past simple        | em     |
-| future simple      | ef     |
-| imperative         | ---    |
-| conditional        | ---    |
+| present simple     | --     |
+| present continuous | --     |
+| past simple        | --     |
+| future simple      | --     |
+| imperative         | --     |
+| conditional        | --     |
+
 TODO: Decide whether to use grammatical aspect to replace extra tenses
+
 
 ## Pronouns:
 |                  | singular | plural       |
@@ -69,36 +107,23 @@ possessive pronouns have the prefix "a-" (my = ada)
 <br>TODO: Possessive for other words
 - either a pre/suf- fix, or something "of" someone
 
+
+## Adjectives:
+There are three types of adjectives:
+
+| name        | suffix | description |
+|:-----------:|:------:|:------------|
+| absolute    | -en    | Describe a property of something |
+| comparative | -on    | Describe a relation of something (to something) |
+| superlative | -un    | Describe a property of something on the highest degree |
+
+
 ## Prepositions:
 ## Adverbs:
-## Adjectives:
-TODO: Possible reserved last letter (like verbs have)
-- absolute: nothing
-- comparative: postfix -o
-- superlative: postfix -i
 ## Determiners:
 ## Conjunctions:
 ## Interjections:
 
-## Word structure
-- words in their base form should start and end with plosives, except:
-  verbs (end with "h")
-  pronouns (end with vowel)
-  
-  - yes: "Doheared"
-  - no:  "Doheareh"
-- vowels should alternate with consonants
-  - yes: "satod", "Doheared"
-  - no:  "stod",  "Doheard"
-
-Basic for of word is noun, other types are determined via suffix.
-| word<br>type | suffix |
-|:------------:|:------:|
-| verb         | ah     |
-| adjective    | an     |
-
-# Sentence structure:
-Same as english for now
 
 # Vocabulary:
 WIP
@@ -112,6 +137,7 @@ TODO: image styling + Vowel rename<br>
 ![](images/DogunPlosivesDraft1.png)
 ![](images/DogunFricativesDraft1.png)
 ![](images/DogunOthersDraft1.png)
+
 
 # Examples:
 WIP
