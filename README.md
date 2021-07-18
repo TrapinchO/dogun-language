@@ -26,35 +26,23 @@ For more information on pronunciation [click on this table](https://www.internat
 | lateral<br> approximant |             |              | l /l/       |             |         |
 
 Unused letters: c, j, q, w, y, z<br>
-Letter categories:
-* Vowels
-* Plosives
-* Fricatives
-* Others
+Consonant categories:
+- Vowels
+- Plosives
+- Fricatives
+- Others
 
 # Grammar (I think?):
 ## Nouns:
-Plural:
-
-|              |  plural | plural<br>collective |
-|--------------|:-------:|:--------------------:|
-| **postfix**  | a       | e                    |
-| **examples** | ------- | -------------------- |
-| earth        | earha   | earhe                |
-- plural collective = e.g. races, species
-  - Dogun as species, not as a group (like a village)
-TODO: is "Dohearh" a species or a member of the species?
+### Plural:
+Done via suffix "e"
 
 ## Verbs:
-- end with "h"
+- noun with suffix "ah"
 - structure is {tense}-{verb}{pronoun without "d"}
-  - (e.g. "I write" =  en- + wroth + a = en-wrotha) ("en" signalises present simple)
-- negation is done by adding "n" before pronoun
-  - (e.g. "I don't write" = "n" + en- + vroth + a = nen-vrotha)
+- negation is done by adding "n" before tense
 
 ### tenses
-- postfix
-
 | tense              | prefix |
 |--------------------|:------:|
 | present simple     | en     |
@@ -63,29 +51,28 @@ TODO: is "Dohearh" a species or a member of the species?
 | future simple      | ef     |
 | imperative         | ---    |
 | conditional        | ---    |
+TODO: Decide whether to use grammatical aspect to replace extra tenses
 
-
-TODO: Decide whether to use grammatical aspect to repalce extra tenses
 ## Pronouns:
-|                  | singular | plural      | plural<br>collective|
-|------------------|:--------:|:-----------:|:-------------------:|
-| 1st person (me)  | da       | daa/<br>dae | dai                 |
-| 2nd person (you) | de       | dea         | dei                 |
-| 3nd person       | du       | doa         | doi                 |
+|                  | singular | plural       |
+|------------------|:--------:|:------------:|
+| 1st person (me)  | da       | daa/<br>daae |
+| 2nd person (you) | de       | dee          |
+| 3nd person       | di       | die          |
 - 1st person plural:
   - whether the recipient of the speech/text is included
   - Example: friend tells you "We won the lottery!"
     - \+listener = you won too
     - \-listener = you didn't win
 
-possessive pronouns have the prefix "-a" (my = ada)
+possessive pronouns have the prefix "a-" (my = ada)
 <br>TODO: Possessive for other words
 - either a pre/suf- fix, or something "of" someone
 
 ## Prepositions:
 ## Adverbs:
 ## Adjectives:
-TODO: Possible reserved last leeter (like verbs have)
+TODO: Possible reserved last letter (like verbs have)
 - absolute: nothing
 - comparative: postfix -o
 - superlative: postfix -i
@@ -93,35 +80,28 @@ TODO: Possible reserved last leeter (like verbs have)
 ## Conjunctions:
 ## Interjections:
 
-## Word sructure
-One possibility:
-- words should start with one of these letters: t, d, k, g, p, b
+## Word structure
+- words in their base form should start and end with plosives, except:
+  verbs (end with "h")
+  pronouns (end with vowel)
+  
+  - yes: "Doheared"
+  - no:  "Doheareh"
+- vowels should alternate with consonants
+  - yes: "satod", "Doheared"
+  - no:  "stod",  "Doheard"
+
+Basic for of word is noun, other types are determined via suffix.
+| word<br>type | suffix |
+|:------------:|:------:|
+| verb         | ah     |
+| adjective    | an     |
+
 # Sentence structure:
 Same as english for now
 
 # Vocabulary:
-| english      | dogun-ish             |
-|--------------|-----------------------|
-| Dogun        | Dohearh (living earth)|
-| being (noun) | baen                  |
-| earth        | earh                  |
-| fire         | firae                 |
-| friend       | frod                  |
-| letter       | lotod                 |
-| stone        | stod                  |
-| wynnic       | wynnic                |
-|---------|-----------|
-| speak   | spoh      |
-| write   | vroth     |
-| live    | doh       |
-| welcome | volcoh    |
-| be      | dah       |
-| speak   | spoh      |
-|---------|-----------|
-| on      | ho        |
-| to      | to        |
-| and     | o         |
-| from    | fo        |
+WIP
 
 
 # Writing system:
@@ -134,11 +114,4 @@ TODO: image styling + Vowel rename<br>
 ![](images/DogunOthersDraft1.png)
 
 # Examples:
-| english                            | dogun-ish                      |
-|------------------------------------|--------------------------------|
-| I write                            | en-vrotha                      |
-| He speaks                          | en-spohu                       |
-| Dogun writes on stone              | Dogun en-vrothu ho stod        |
-| Korzim wrote a letter to a friend  | Korzim em-vrothu lotod to frod |
-| We will speak wynnic and dogun     | ef-spohaa wynnic o dogun       |
-| Doguns live                        | Dohearhe en-dohio              |
+WIP
