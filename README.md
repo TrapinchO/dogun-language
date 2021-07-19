@@ -1,5 +1,6 @@
 (Please forgive me the lack of proper terminology, structure etc.)<br>
-**This project is heavily WIP and everything is subject to change**
+This project is heavily WIP and everything is subject to change<br>
+**For the time being, this project is abandoned. Feel free to continue on it.**
 
 # Design notes:
 The language is supposed to reflect the nature of the species.<br>
@@ -35,24 +36,17 @@ Consonant categories:
 
 # Grammar (I think?):
 ## Word structure
-- words in their base form should start and end with plosives  
-  - yes: "Doheared"
-  - no:  "Doheareh"
-- vowels should alternate with consonants
-  - yes: "satod", "Doheared"
-  - no:  "stod",  "Doheard"
-
 Basic for of word is noun, other types are determined via suffix.
-| word<br>type | suffix       |
-|:------------:|:------------:|
-| verb         | oh           |
-| adjective    | <type>n      |
+| word<br>type | suffix   |
+|:------------:|:--------:|
+| verb         | oh       |
+| adjective    | \<type>n |
 
 Live:
 - noun: dod
 - verb (to live): dodoh
 - adjective (living): dodan
-- possesive (live's + "of live"): adod
+- possesive (live's / "of live"): adod
 
 Good:
 - noun: baak
@@ -67,6 +61,13 @@ Same as english for now
 
 
 ## Nouns:
+Nouns in their base form should start and end with plosives  
+  - yes: "Dodeared"
+  - no:  "Dodeareh"
+- vowels should alternate with consonants
+  - yes: "satod", "Doheared"
+  - no:  "stod",  "Doheard"
+
 ### Plural:
 Done via suffix "e"
 
@@ -79,22 +80,20 @@ Done via prefix "a"
 - negation is done by adding "n" before tense
 
 ### tenses
-| tense              | prefix |
-|--------------------|:------:|
-| present simple     | --     |
-| present continuous | --     |
-| past simple        | --     |
-| future simple      | --     |
-| imperative         | --     |
-| conditional        | --     |
-
-TODO: Decide whether to use grammatical aspect to replace extra tenses
+| tense              | prefix | description                                            | english example     |
+|:-------------------|:------:|:-------------------------------------------------------|                     |
+| present simple     | mo     |                                                        |                     |
+| present continuous | mu     | describes a continous action happening at the moment   | I am writing a book |
+| past simple        | no     | describes an action that started and ended in the past | I wrote a book      |
+| future simple      | nu     | describes an action that will happen in the future     | I will write a book |
+| imperative         | vo     | describes an order                                     | Write a book!       |
+| conditional        | --     | 
 
 
 ## Pronouns:
 |                  | singular | plural       |
 |------------------|:--------:|:------------:|
-| 1st person (me)  | da       | daa/<br>daae |
+| 1st person (me)  | da       | dae/<br>dao  |
 | 2nd person (you) | de       | dee          |
 | 3nd person       | di       | die          |
 - 1st person plural:
@@ -104,8 +103,6 @@ TODO: Decide whether to use grammatical aspect to replace extra tenses
     - \-listener = you didn't win
 
 possessive pronouns have the prefix "a-" (my = ada)
-<br>TODO: Possessive for other words
-- either a pre/suf- fix, or something "of" someone
 
 
 ## Adjectives:
@@ -113,16 +110,19 @@ There are three types of adjectives:
 
 | name        | suffix | description |
 |:-----------:|:------:|:------------|
-| absolute    | -en    | Describe a property of something |
-| comparative | -on    | Describe a relation of something (to something) |
-| superlative | -un    | Describe a property of something on the highest degree |
+| absolute    | -en    | describes a property of something |
+| comparative | -on    | describes a relation of something (to something) |
+| superlative | -un    | describes a property of something on the highest degree |
 
 
 ## Prepositions:
 ## Adverbs:
+
 ## Determiners:
 ## Conjunctions:
+Probably 1 or 2 letter words
 ## Interjections:
+Probably 1 or 2 letter words
 
 
 # Vocabulary:
